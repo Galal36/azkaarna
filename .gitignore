@@ -42,3 +42,13 @@ memory/
 MEMORY.md
 GEMINI.md
 BUILD_PROMPTS.md
+
+# PWA dev artifacts
+dev-dist/
+
+# Local scratch / backup data files (kept on disk, not committed)
+extracted.txt
+lst.json
+public/old_json.json
+public/azkarr.json
+public/*.bak
