@@ -57,7 +57,8 @@ Once installed, it launches full-screen and **works fully offline** thanks to it
 | **Data** | Static JSON (`public/azkar.json`), no backend required |
 | **Typography** | Amiri (Arabic) & DM Sans (Latin) |
 | **Deployment** | Nginx · Linux VPS · Let's Encrypt (HTTPS) |
-AI LLM: Claude.
+| **AI LLM** | Claude |
+
 ---
 
 ##  Getting Started
