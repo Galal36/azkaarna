@@ -2,11 +2,11 @@
 
 Azkaarna is a high-performance, mobile-first Progressive Web App (PWA) for reading and counting your daily Islamic Adhkar. Built with a focus on **simplicity, speed, and offline resilience**.
 
-🌐 **Live site:** [https://azkaarna.com](https://azkaarna.com)
+ **Live site:** [https://azkaarna.com](https://azkaarna.com)
 
 ---
 
-## ✨ Free & Focused — the heart of Azkaarna
+##  Free & Focused — the heart of Azkaarna
 
 The most important value of this app is to give you a **free, distraction-free space for dhikr**:
 
@@ -19,7 +19,7 @@ The most important value of this app is to give you a **free, distraction-free s
 
 ---
 
-## 📲 Installable everywhere
+##  Installable everywhere
 
 Azkaarna works as a normal website **and** installs like a native app — no app store needed.
 
@@ -32,7 +32,7 @@ Once installed, it launches full-screen and **works fully offline** thanks to it
 
 ---
 
-## 🌟 Features
+##  Features
 
 1. **Free & ad-free** — distraction-free remembrance, always.
 2. **Interactive counters** — a digital tasbih for each dhikr with haptic feedback.
@@ -45,7 +45,7 @@ Once installed, it launches full-screen and **works fully offline** thanks to it
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Area | Technology |
 | --- | --- |
@@ -60,7 +60,7 @@ Once installed, it launches full-screen and **works fully offline** thanks to it
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -92,7 +92,7 @@ Once installed, it launches full-screen and **works fully offline** thanks to it
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 **Azkaarna is open for anyone to contribute** — developers, designers, translators, and reviewers are all welcome. This is a *sadaqah jariyah* (ongoing charity) project, and every contribution is genuinely appreciated.
 
@@ -110,13 +110,13 @@ You can also contribute the usual way:
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 There are **many features planned** to make Azkaarna better, In-Shaa-Allah. This is an ongoing effort and a lot more is on the way in the future. If you'd like to help shape what comes next, get in touch using the email above.
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
